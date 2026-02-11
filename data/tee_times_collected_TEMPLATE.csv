@@ -1,0 +1,5 @@
+collection_date,collection_time,course_id,course_name,tee_date,tee_time,price_displayed,price_type,holes,includes_cart,spots_available,is_hot_deal,booking_platform,notes
+2026-02-12,10:30,chastain_park,Chastain Park Golf Course,2026-02-15,08:00,32.0,non_resident,18,False,4,False,teeitup,"Saturday morning, full price"
+2026-02-12,10:30,chastain_park,Chastain Park Golf Course,2026-02-15,08:10,32.0,non_resident,18,False,2,False,teeitup,
+2026-02-12,10:35,chastain_park,Chastain Park Golf Course,2026-02-15,14:00,28.0,non_resident,18,False,4,False,golfnow,Twilight rate
+2026-02-12,10:40,candler_park,Candler Park Golf Course,2026-02-14,09:00,11.0,non_resident,9,False,3,False,teeitup,"Friday, walking only"

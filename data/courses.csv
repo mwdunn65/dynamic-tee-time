@@ -1,0 +1,9 @@
+course_id,name,location,region,tier,base_price_18,base_price_9,holes,par,rating,latitude,longitude,city_of_atlanta
+cherokee_run,Cherokee Run Golf Club,"Conyers, GA",East Atlanta,premium,72,40,18,72,4.3,33.6465,-84.0077,
+mystery_valley,Mystery Valley Golf Club,"Lithonia, GA",East Atlanta,value,45,28,18,72,3.8,33.71,-84.1052,
+bobby_jones,Bobby Jones Golf Course,"Atlanta, GA (Buckhead)",North Atlanta,premium,65,65,9,36,4.1,33.8115,-84.41,
+sugar_creek,Sugar Creek Golf & Tennis Club,"Sugar Hill, GA",North Atlanta,premium,68,38,18,72,4.2,34.1065,-84.0357,
+chastain_park,Chastain Park Golf Course,"Atlanta, GA (Buckhead)",North Atlanta,premium,32,16,18,72,4.4,33.8792,-84.3827,True
+browns_mill,Browns Mill Golf Course,"Atlanta, GA",South Atlanta,value,32,16,18,72,3.8,33.6883,-84.346,True
+candler_park,Candler Park Golf Course,"Atlanta, GA",East Atlanta,value,13,13,9,33,3.6,33.7578,-84.3388,True
+tup_holmes,"Alfred ""Tup"" Holmes Golf Course","Atlanta, GA",West Atlanta,value,35,25,18,72,3.7,33.7367,-84.47,True
